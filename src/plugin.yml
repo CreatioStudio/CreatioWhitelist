@@ -1,0 +1,4 @@
+name: WhiteList
+main: vip.creatio.whitelist.WhiteList
+version: 1.0
+author: HenryRenYz
